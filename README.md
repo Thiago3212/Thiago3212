@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindos+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&size=50&duration=8000&pause=1000&color=EBF727&center=true&vCenter=true&random=false&width=435&lines=Bem+vindos+ao+meu+perfil+)](https://git.io/typing-svg)
 
 ## Eaiii! Sou o  Thiago Birkhan D´Ambrosi 
 
