@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&size=50&duration=8000&pause=1000&color=EBF727&center=true&vCenter=true&random=false&width=435&lines=Bem+vindos+ao+meu+perfil+)](https://git.io/typing-svg)
 
-## Eaiii! Sou o  Thiago Birkhan D´Ambrosi 
+## Eaiii! Sou o  Thiago 
 
 <div align="center">
   <a href="https://github.com/Thiago3212">
